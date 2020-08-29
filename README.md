@@ -20,6 +20,7 @@
 * [Java基础面试题](https://github.com/crisxuan/bestJavaer/wiki/Java%E9%9D%A2%E8%AF%95%E9%A2%98)
 * [操作系统](https://github.com/crisxuan/bestJavaer#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%B3%BB%E5%88%97)
 * [计算机基础知识](https://github.com/crisxuan/bestJavaer#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97)
+* 深入理解计算机系统
 * [计算机网络](https://github.com/crisxuan/bestJavaer#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%B3%BB%E5%88%97)
 * [Java 基础教程](https://github.com/crisxuan/bestJavaer#java-%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97)
 * [设计模式](https://github.com/crisxuan/bestJavaer#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%B3%BB%E5%88%97)
@@ -77,11 +78,31 @@
 ![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/os-simple.png)
 
 * [硬核操作系统入门](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-overview.md)
+  * [什么是操作系统](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-whatisos.md)
+  * [计算机硬件简介](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-device.md)
+  * [操作系统博物馆](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-kindsofos.md)
+  * [操作系统概念](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-view.md)
+  * [系统调用](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-systemcall.md)
+  * [操作系统结构](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-structure.md)
 * [硬核操作系统之进程和线程](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-processandthread.md)
+  * [操作系统进程](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-process.md)
+  * [操作系统线程](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-thread.md)
+  * [操作系统进程间通信](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-processcommunicate.md)
+  * [操作系统调度](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-dispatch.md)
 * [硬核操作系统之内存管理](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-rammanage.md)
+  * [操作系统无存储器抽象](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-nomemory.md)
+  * [操作系统地址空间](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-onememory.md)
+  * [操作系统虚拟地址](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-virtualmemory.md)
+  * [操作系统页面置换算法](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-pagereplacement.md)
 * [硬核操作系统之文件系统](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-filesystem.md)
+  * [操作系统文件系统概述](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-filesystemvview.md)
+  * [操作系统文件](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-file.md)
+  * [操作系统目录](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-catalog.md)
+  * [操作系统文件系统实现](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-filesystemrealize.md)
+  * [操作系统文件管理和优化](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-fsmanage.md)
+
 * [硬核操作系统之输入输出](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-inputoutput.md)
-* 硬核操作系统之死锁
+* [硬核操作系统之死锁](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-deadlock.md)
 * 硬核操作系统之虚拟化和云
 * 硬核操作系统之网络安全
 * 硬核操作系统之 Linux 系统研究
@@ -108,6 +129,10 @@
 * [程序员需要了解的硬核知识之操作系统入门](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-os.md)
 * [程序员需要了解的硬核知识之控制硬件](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-disk.md)
 
+## 深入理解计算机系统
+
+* [计算机系统入门概述](https://github.com/crisxuan/bestJavaer/blob/master/computersystem/csapp-basic.md)
+
 ## HTTP 系列
 
 ![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/http.png)
@@ -120,8 +145,11 @@
 
 ## Linux 系列
 
-* [Linux 内存管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-rammanage.md)
-* [Linux 物理内存和虚拟内存](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-physicram.md)
+* [Linux 开篇！！！](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-first.md)
+* [Linux 进程和线程](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-processandthread.md)
+* [Linux 内存管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-memroy-management.md)
+* [Linux IO管理](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-io.md)
+* [Linux 文件系统](https://github.com/crisxuan/bestJavaer/blob/master/linux/linux-file-system.md)
 
 ## 计算机网络系列
 
@@ -163,13 +191,13 @@
 * [Effective Java - 构造器私有、枚举和单例](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/effectivejava-privateconstructor.md)
 * [Effective Java - 静态方法与构造器](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/effectivejava-staticandmethod.md)
 * [Effective Java - try-with-resources 优先于try-finally](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/effectivejava-try-with-resources.md)
-* 学习 Java 网站推荐给你
+* [学习 Java 网站推荐给你](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/learn-java.md)
 
 
 
 ### 源码分析
 
-waiting...
+[看完这篇 HashMap，和面试官扯皮就没问题了](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-hashmap.md)
 
 
 
@@ -242,10 +270,16 @@ waiting...
 
 ![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/mysql.png)
 
-* [SQL 进阶技巧](https://github.com/crisxuan/bestJavaer/blob/master/mysql/sql-improve.md)
 * [MySQL 基础入门大全](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-basicall.md)
-
-
+  * [MySQL SQL 基本使用](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-sql.md)
+  * [MySQL 数据类型](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-datatype.md)
+  * [MySQL 运算符](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-operator.md)
+  * [MySQL 常用函数](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-func.md)
+* [MySQL 开发](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-develop.md)
+  * [MySQL 存储引擎](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-storageengine.md)
+  * [MySQL 选择合适的数据类型](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-selectdatatype.md)
+  * [MySQL 字符集](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-charset.md)
+* [SQL 进阶技巧](https://github.com/crisxuan/bestJavaer/blob/master/mysql/sql-improve.md)
 
 ## Spring 系列
 
@@ -337,6 +371,7 @@ waiting...
 ## 读者面试系列
 
 * [今年面试这么难，到底如何进入大厂？](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-jingdong.md)
+* 外包面试之旅
 
 
 
@@ -447,25 +482,11 @@ waiting...
 * [这样查生产问题，不做背锅侠](https://github.com/crisxuan/bestJavaer/blob/master/aboutwork/%E8%BF%99%E6%A0%B7%E6%9F%A5%E7%94%9F%E4%BA%A7%E9%97%AE%E9%A2%98%EF%BC%8C%E4%B8%8D%E5%81%9A%E8%83%8C%E9%94%85%E4%BE%A0.md)
 * [最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://github.com/crisxuan/bestJavaer/blob/master/aboutwork/%E6%9C%80%E5%85%A8%E5%B9%B2%E8%B4%A7%EF%BC%9A%E4%BB%8E%E5%86%99%E7%AE%80%E5%8E%86%EF%BC%8C%E5%88%B0%E9%9D%A2%E8%AF%95%E3%80%81%E8%B0%88%E8%96%AA%E9%85%AC%E7%9A%84%E9%82%A3%E4%BA%9B%E6%8A%80%E5%B7%A7%E5%92%8C%E9%98%B2%E5%9D%91%E6%8C%87%E5%8D%97.md)
 
-
-
-
-
 ## 优质 Github 推荐
 
 * [计算机自学 Github](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
 * [Crash Course 的 Github](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
 * [JavaGuide 的 Github](https://github.com/Snailclimb/JavaGuide)
-
-## 我的 PDF
-
-作者硬肝了三本 PDF ，它们分别是
-
-* [Java 核心基础总结](https://github.com/crisxuan/bestJavaer/blob/master/mypdf/java-all.pdf)
-* [HTTP 核心总结](https://github.com/crisxuan/bestJavaer/blob/master/mypdf/http-all.pdf)
-* [程序员必知的硬核基础知识总结](https://github.com/crisxuan/bestJavaer/blob/master/mypdf/computer-basic.pdf)
-
-
 
 ## 贡献者
 
@@ -480,31 +501,29 @@ waiting...
 * 公众号：四猿外怕写作
 * 期待你成为新的 Contributor
 
-
-
 ## 每日一题计划
 
-* byte的取值范围是多少，怎么计算出来的
+* [byte的取值范围是多少，怎么计算出来的](https://github.com/crisxuan/bestJavaer/wiki/byte%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%8C%E6%80%8E%E4%B9%88%E8%AE%A1%E7%AE%97%E5%87%BA%E6%9D%A5%E7%9A%84)
 
-* HashMap 多线程操作导致死循环问题
+* [HashMap 多线程操作导致死循环问题](https://github.com/crisxuan/bestJavaer/wiki/HashMap-%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%93%8D%E4%BD%9C%E5%AF%BC%E8%87%B4%E6%AD%BB%E5%BE%AA%E7%8E%AF%E9%97%AE%E9%A2%98)
 
-* Integer 缓存池
+* [Integer 缓存池](https://github.com/crisxuan/bestJavaer/wiki/Integer-%E7%BC%93%E5%AD%98%E6%B1%A0)
 
-* 你知道 fail-fast 和 fail-safe 吗
+* [你知道 fail-fast 和 fail-safe 吗](https://github.com/crisxuan/bestJavaer/wiki/%E4%BD%A0%E7%9F%A5%E9%81%93-fail-fast-%E5%92%8C-fail-safe-%E5%90%97)
 
-* Arrays.asList 获得的 List 应该注意什么
+* [Arrays.asList 获得的 List 应该注意什么](https://github.com/crisxuan/bestJavaer/wiki/Arrays.asList-%E8%8E%B7%E5%BE%97%E7%9A%84-List-%E5%BA%94%E8%AF%A5%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88)
 
-* 动态代理是基于什么原理 
+* [动态代理是基于什么原理](https://github.com/crisxuan/bestJavaer/wiki/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E6%98%AF%E5%9F%BA%E4%BA%8E%E4%BB%80%E4%B9%88%E5%8E%9F%E7%90%86) 
 
-* 谈谈你用到的设计模式以及应用场景
+* [谈谈你用到的设计模式以及应用场景](https://github.com/crisxuan/bestJavaer/wiki/%E8%B0%88%E8%B0%88%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
-* 谈一谈动态绑定和静态绑定
+* [谈一谈动态绑定和静态绑定](https://github.com/crisxuan/bestJavaer/wiki/%E9%9D%99%E6%80%81%E7%BB%91%E5%AE%9A%E5%92%8C%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A%E7%9A%84%E5%8C%BA%E5%88%AB)
 
-* 讲一讲 HashMap 中 put 的全过程
+* [讲一讲 HashMap 中 put 的全过程](https://github.com/crisxuan/bestJavaer/wiki/%E8%AE%B2%E4%B8%80%E4%B8%8B-HashMap-put-%E7%9A%84%E8%BF%87%E7%A8%8B)
 
-* 谈一谈 Java 泛型和类型擦除
+* [谈一谈 Java 泛型和类型擦除](https://github.com/crisxuan/bestJavaer/wiki/Java-%E6%B3%9B%E5%9E%8B%E5%92%8C%E7%B1%BB%E5%9E%8B%E6%93%A6%E9%99%A4)
 
-* 聊一聊MySQL中的事务
+* [聊一聊 MySQL 中的事务](https://github.com/crisxuan/bestJavaer/wiki/MySQL-%E4%BA%8B%E5%8A%A1%E5%9B%9B%E5%A4%A7%E7%89%B9%E6%80%A7)
 
 * 请说出你知道的索引失效的几种情况
 
@@ -514,17 +533,35 @@ waiting...
 
 * 谈一谈你所知道的 ThreadLocal
 
-* 聊一聊 InnoDB 与 MyISAM 的区别
+* [聊一聊 InnoDB 与 MyISAM 的区别](https://github.com/crisxuan/bestJavaer/wiki/MySQL-%E5%B8%B8%E8%A7%81%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 * Redis 缓存穿透、缓存雪崩和缓存击穿原因，以及解决方案
 
-* 说一说进程通信有几种方式
+* [说一说进程通信有几种方式](https://github.com/crisxuan/bestJavaer/wiki/%E8%BF%9B%E7%A8%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F)
+
+* 聊一聊你知道的 AQS
+
+* 为什么单线程的 redis 这么快？
+
+* 聊一聊两阶段加锁、死锁、活锁、通信间死锁、饥饿的概念
+
+* [说一说 Java 中的几种引用类型，并分别详述各引用类型的特征](https://github.com/crisxuan/bestJavaer/wiki/%E5%BC%BA%E5%BC%95%E7%94%A8%E3%80%81%E8%8B%A5%E5%BC%95%E7%94%A8%E3%80%81%E8%99%9A%E5%BC%95%E7%94%A8%E5%92%8C%E5%B9%BB%E8%B1%A1%E5%BC%95%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+* 说一说 你对 happen-before 规则的理解
+
+* 地址栏输入 URL 发生了什么？
+
+* 说一说 DNS 的解析过程
+
+* 什么是 TIME-WAIT、为什么可以是三次挥手、为什么不能是两次握手、流量控制、滑动窗口、Nagle 算法、糊涂窗口综合症、拥塞控制、慢启动、拥塞避免、快重传、快恢复、长连接 VS 短连接
+
+* [什么是 DMA](https://github.com/crisxuan/bestJavaer/wiki/%E4%BB%80%E4%B9%88%E6%98%AF-DMA)
 
   
 
 ## 欢迎关注
 
-欢迎关注作者的微信公众号 **Java建设者**，参加每日一题计划，给你分享作者硬肝的三本 PDF。
+欢迎关注作者的微信公众号 **Java建设者**，参加每日一题计划，关注公众号回复 `PDF` 给你分享作者硬肝的四本 PDF。
 
 ![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/qcode/javajianshecode.png)
 
