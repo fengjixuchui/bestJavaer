@@ -100,7 +100,6 @@
   * [操作系统目录](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-catalog.md)
   * [操作系统文件系统实现](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-filesystemrealize.md)
   * [操作系统文件管理和优化](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-fsmanage.md)
-
 * [硬核操作系统之输入输出](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-inputoutput.md)
 * [硬核操作系统之死锁](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-deadlock.md)
 * 硬核操作系统之虚拟化和云
@@ -172,6 +171,9 @@
 ![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/java-basic.png)
 
 * [Java 核心基础教程](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-summary.md)
+* [Java 代理](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-proxy.md)
+* [Java 反射](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-reflect.md)
+* [Java 集合](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-collections.md)
 * [String、StringBuffer 和 StringBuilder](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-stringstringbufferstringbuilder.md)
 * [深入理解 static 关键字](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-static.md)
 * [深入理解 Java 变量](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-varaibles.md)
@@ -453,6 +455,9 @@ waiting...
 * [作者的一周](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/cxuan-oneweek.md)
 * [bilibili 关于后浪有感](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/aboutbilibili.md)
 * [电信诈骗](https://github.com/crisxuan/bestJavaer/blob/master/aboutlife/cxuan-deceive.md)
+* 如何成为务实的程序员
+* 写给 25 岁的自己
+* 面试官和面试者在同一个群里是怎样的体验
 
 
 
@@ -556,6 +561,20 @@ waiting...
 * 什么是 TIME-WAIT、为什么可以是三次挥手、为什么不能是两次握手、流量控制、滑动窗口、Nagle 算法、糊涂窗口综合症、拥塞控制、慢启动、拥塞避免、快重传、快恢复、长连接 VS 短连接
 
 * [什么是 DMA](https://github.com/crisxuan/bestJavaer/wiki/%E4%BB%80%E4%B9%88%E6%98%AF-DMA)
+
+* 聊一聊你知道的 final、finally 和 finalize。
+
+* 请详述一下 HTTP 中 Get/Post 区别
+
+* ThreadPoolExecutor 的构造方法都有哪些参数，分别代表什么意思？
+
+* Synchronized 锁升级流程？
+
+* 你项目中使用优雅的判空方式
+
+* synchronized 和 ReentrantLock的区别？
+
+* CountDownLatch 和 CyclicBarrier 的区别
 
   
 
