@@ -58,6 +58,7 @@
 * [Linux](https://github.com/crisxuan/bestJavaer#linux-%E7%B3%BB%E5%88%97)
 * [算法](https://github.com/crisxuan/bestJavaer#%E7%AE%97%E6%B3%95)
 * [实战篇](https://github.com/crisxuan/bestJavaer#%E5%AE%9E%E6%88%98%E7%AF%87)
+* 程序员
 * [思维导图](https://github.com/crisxuan/bestJavaer#%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 * [关于认知](https://github.com/crisxuan/bestJavaer#%E5%85%B3%E4%BA%8E%E8%AE%A4%E7%9F%A5)
 * [电子书籍](https://github.com/crisxuan/bestJavaer#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
@@ -75,30 +76,18 @@
 
 ## 操作系统系列
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/os-simple.png)
-
 * [硬核操作系统入门](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-overview.md)
 * [硬核操作系统之进程和线程](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-processandthread.md)
 * [硬核操作系统之内存管理](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-rammanage.md)
 * [硬核操作系统之文件系统](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-filesystem.md)
 * [硬核操作系统之输入输出](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-inputoutput.md)
 * [硬核操作系统之死锁](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-deadlock.md)
-* 硬核操作系统之虚拟化和云
-* 硬核操作系统之网络安全
-* 硬核操作系统之 Linux 系统研究
-* 硬核操作系统之 Windows8 系统研究
-* 硬核操作系统之 UNIX 系统研究
-* 硬核操作系统之 Android 系统研究
-* 硬核操作系统之如何设计操作系统
 * [操作系统核心概念](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-importantconcept.md)
-* [操作系统面试题](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-fiftyInterview.md)
 * [操作系统网站推荐](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-recommand.md)
 * [操作系统硬核回答](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-howtolearn.md)
 * [计算机基础常识](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/computer-youshouldknow.md)
 
 ## 计算机入门系列
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/computer-basic.png)
 
 * [程序员需要了解的硬核知识之 CPU](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-cpu.md)
 * [程序员需要了解的硬核知识之内存](https://github.com/crisxuan/bestJavaer/blob/master/computer-basic/computer-ram.md)
@@ -114,8 +103,6 @@
 * [计算机系统入门概述](https://github.com/crisxuan/bestJavaer/blob/master/computersystem/csapp-basic.md)
 
 ## HTTP 系列
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/http.png)
 
 * [全面了解 HTTP](https://github.com/crisxuan/bestJavaer/blob/master/http/http-basic.md)
 * [HTTP 黑科技](https://github.com/crisxuan/bestJavaer/blob/master/http/http-advanced.md)
@@ -136,19 +123,23 @@
 * [计算机网络基础入门](https://github.com/crisxuan/bestJavaer/blob/master/network/network-basic.md)
 * [你不得不知的计算机网络](https://github.com/crisxuan/bestJavaer/blob/master/network/network-center.md)
 * [计算机网络应用层](https://github.com/crisxuan/bestJavaer/blob/master/network/network-appLevel.md)
+* [计算机网络基础知识](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-network-basic.md)
+* [TCP/IP 基础知识](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-network-tcpip.md)
+* [计算机网络应用层协议](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-application.md)
+* [计算机网络传输层](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-translayer.md)
 
 
 ## Java 基础系列
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/java-basic.png)
 
 * [Java 核心基础教程](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-summary.md)
 * [Java 代理](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-proxy.md)
 * [Java 反射](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-reflect.md)
 * [Java 集合](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-collections.md)
 * [String、StringBuffer 和 StringBuilder](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-stringstringbufferstringbuilder.md)
+* Java 中的语法糖
 * [深入理解 static 关键字](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-static.md)
 * [深入理解 Java 变量](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-varaibles.md)
+* [深入理解 final、finally、finalize](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-final.md)
 * [关于四种引用类型](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-references.md)
 * [Exception 和 Error 的区别](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-exceptionanderror.md)
 * [ArrayList 用法解析](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-arraylist.md)
@@ -167,8 +158,6 @@
 * [Effective Java - try-with-resources 优先于try-finally](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/effectivejava-try-with-resources.md)
 * [学习 Java 网站推荐给你](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/learn-java.md)
 
-
-
 ### 源码分析
 
 [看完这篇 HashMap，和面试官扯皮就没问题了](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-hashmap.md)
@@ -176,8 +165,6 @@
 [AtomicXXX 的用法和实现原理](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-atomicxxx.md)
 
 ## 并发系列
-
- ![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/java-concurrent.png)
 
 * [简单认识并发](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-concurrent-basic.md)
 * [看完你就明白的锁系列之锁的状态](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-lock-status.md)
@@ -196,49 +183,24 @@
 
 ## 设计模式系列
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/design-pattern.png)
-
 * [设计模式基础入门](https://github.com/crisxuan/bestJavaer/blob/master/design-pattern/designpattern-basic.md)
 * [我向面试官讲解了单例模式，他对我竖起了大拇指](https://github.com/crisxuan/bestJavaer/blob/master/design-pattern/designpattern-singlaton.md)
 
 ## JVM 系列
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/jvm.png)
-
-
-
-* Java 内存模型
-* 一个对象从 JVM 的角度是如何创建的
-* 垃圾回收理论介绍
-* 垃圾回收实战篇
-* 内存分配粗略与回收策略
-* 虚拟机性能监控工具与故障处理工具
-* 调优分析与实战
-* 类文件结构
-* 字节码指令介绍
-* 虚拟机类加载机制
-* 虚拟机字节码执行引擎
-* 程序编译与代码优化
-
-
+TODO
 
 ## 汇编语言
 
 * [从指令集的角度看汇编](https://github.com/crisxuan/bestJavaer/blob/master/assembly/assembly01.md)
 
-
+* [寄存器入门第一篇](https://github.com/crisxuan/bestJavaer/blob/master/assembly/assembly02.md)
 
 ## C 语言
 
 * [C 语言基础入门](https://github.com/crisxuan/bestJavaer/blob/master/cprograming/c-basic.md)
 
-
-
-
-
 ## MyBatis
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/mybatis.png)
 
 
 
@@ -252,11 +214,7 @@
 * [MyBatis 二级缓存全详解](https://github.com/crisxuan/bestJavaer/blob/master/mybatis/mybatis-secondcache.md)
 * [MyBatis 启动流程](https://github.com/crisxuan/bestJavaer/blob/master/mybatis/mybatis-howtostart.md)
 
-
-
 ## MySQL
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/mysql.png)
 
 * [MySQL 基础入门大全](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-basicall.md)
   * [MySQL SQL 基本使用](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-sql.md)
@@ -271,8 +229,6 @@
 
 ## Spring 系列
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/spring.png)
-
 * [Spring Bean 全解析](https://github.com/crisxuan/bestJavaer/blob/master/spring/spring-bean.md)
 * [Spring AOP 扫盲](https://github.com/crisxuan/bestJavaer/blob/master/spring/spring-aop.md)
 * [Spring 注解配置的基本要素](https://github.com/crisxuan/bestJavaer/blob/master/spring/spring-annotation.md)
@@ -286,58 +242,30 @@
 * [@Configuration 全部用法](https://github.com/crisxuan/bestJavaer/blob/master/spring/spring-configuration.md)
 * [Spring Resource 体系介绍](https://github.com/crisxuan/bestJavaer/blob/master/spring/spring-resource.md)
 
-
-
 ### 源码分析
 
-
+TODO
 
 ## SpringBoot 系列
 
-waiting...
-
-
-
-
-
-
+TODO
 
 ## Kafka 系列教程
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/kafka-system.png)
 
 * [真的，Kafka 入门一篇就够了](https://github.com/crisxuan/bestJavaer/blob/master/kafka/kafka-basic.md)
 * [你能说出这些 Kafka 的原理吗](https://github.com/crisxuan/bestJavaer/blob/master/kafka/kafka-deep.md)
 
-
-
 ## Redis 系列教程
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/redis.png)
-
-
-
-
+TODO
 
 ## Nginx 系列教程
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/nginx.png)
-
-
-
-
+TODO
 
 ## ZooKeeper 系列教程
 
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/zookeeper.png)
-
 * [ZooKeeper 基础入门](https://github.com/crisxuan/bestJavaer/blob/master/zookeeper/zookeeper-basic.md)
-
-
-
-
-
-
 
 ## 读者面试系列
 
@@ -355,7 +283,7 @@ waiting...
 * [用心为你写了 9 道 MySQL 面试题](https://github.com/crisxuan/bestJavaer/blob/master/interview-answer/mysql-interview.md)
 * [Java 基础面试题汇总](https://github.com/crisxuan/bestJavaer/blob/master/interview-answer/java-basic-interview.md)
 
-
+* [操作系统面试题](https://github.com/crisxuan/bestJavaer/blob/master/operating-system/os-fiftyInterview.md)
 
 ## 算法
 
@@ -408,11 +336,7 @@ waiting...
 
 
 
-
-
-## 关于职场
-
-
+## 程序员
 
 
 
@@ -533,6 +457,70 @@ waiting...
 * 2020/09/17 现有 25 匹马，5 个赛道，不用计时器，取前三名和前五名最少比赛次数是多少
 
 * 2020/09/18 [说一说如何解决 ABA 问题？为什么能解决？解决思路是什么？](https://github.com/crisxuan/bestJavaer/wiki/%E8%AF%B4%E4%B8%80%E8%AF%B4%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3-ABA-%E9%97%AE%E9%A2%98%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%A7%A3%E5%86%B3%EF%BC%9F%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+
+* 2020/09/21 [为什么 TCP 建立连接需要三次握手，两次不行吗？（快手真题）](https://github.com/crisxuan/bestJavaer/wiki/%E4%B8%BA%E4%BB%80%E4%B9%88-TCP-%E5%BB%BA%E7%AB%8B%E8%BF%9E%E6%8E%A5%E9%9C%80%E8%A6%81%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%EF%BC%8C%E4%B8%A4%E6%AC%A1%E4%B8%8D%E8%A1%8C%E5%90%97%EF%BC%9F)
+
+* 2020/09/22 [Threadlocal 是否存在内存泄漏问题？](https://github.com/crisxuan/bestJavaer/wiki/Threadlocal-%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98%EF%BC%9F)
+
+* 2020/09/23 [聊一聊 线上 oom 的排查方案？](https://github.com/crisxuan/bestJavaer/wiki/%E8%81%8A%E4%B8%80%E8%81%8A-%E7%BA%BF%E4%B8%8A-oom-%E7%9A%84%E6%8E%92%E6%9F%A5%E6%96%B9%E6%A1%88%EF%BC%9F)
+
+* 2020/09/24 [请举出可能形成数据库死锁的原因、如何能避免死锁。](https://github.com/crisxuan/bestJavaer/wiki/%E8%AF%B7%E4%B8%BE%E5%87%BA%E5%8F%AF%E8%83%BD%E5%BD%A2%E6%88%90%E6%95%B0%E6%8D%AE%E5%BA%93%E6%AD%BB%E9%94%81%E7%9A%84%E5%8E%9F%E5%9B%A0%E3%80%81%E5%A6%82%E4%BD%95%E8%83%BD%E9%81%BF%E5%85%8D%E6%AD%BB%E9%94%81%E3%80%82)
+
+* 2020/09/27 [聊一聊 HTTPS 的工作流程。](https://github.com/crisxuan/bestJavaer/wiki/HTTPS-%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
+
+* 2020/10/12 [简单说说你了解的类加载器，可以打破双亲委派么，怎么打破？](https://github.com/crisxuan/bestJavaer/wiki/%E7%AE%80%E5%8D%95%E8%AF%B4%E8%AF%B4%E4%BD%A0%E4%BA%86%E8%A7%A3%E7%9A%84%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%89%93%E7%A0%B4%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E4%B9%88%EF%BC%8C%E6%80%8E%E4%B9%88%E6%89%93%E7%A0%B4%EF%BC%9F)
+
+* 2020/10/13 [聊一聊 SpringBoot 自动注入原理](https://github.com/crisxuan/bestJavaer/wiki/SpringBoot-%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%85%A5%E5%8E%9F%E7%90%86)
+
+* 2020/10/14 [MySQL 的自增 ID 用完了怎么办？](https://github.com/crisxuan/bestJavaer/wiki/MySQL-%E7%9A%84%E8%87%AA%E5%A2%9E-ID-%E7%94%A8%E5%AE%8C%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)
+
+* 2020/10/15 聊一聊你所知道的垃圾收集器及其算法？
+
+* 2020/10/16 什么是阻塞队列？阻塞队列的实现原理是什么？
+
+* 2020/10/17 [count(1) 和 count(*) 的区别是怎样的？](https://github.com/crisxuan/bestJavaer/wiki/count(1)-%E5%92%8C-count(*)-%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%EF%BC%9F)
+
+* 2020/10/21 JVM GC 响应优先与吞吐优先的区别是什么?
+
+* 2020/10/22 [什么是一致性哈希？](https://github.com/crisxuan/bestJavaer/wiki/%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C%EF%BC%9F)
+
+* 2020/10/26 [聊一聊 Redis 的几种删除策略。](https://github.com/crisxuan/bestJavaer/wiki/%E8%81%8A%E4%B8%80%E8%81%8A-Redis-%E7%9A%84%E5%87%A0%E7%A7%8D%E5%88%A0%E9%99%A4%E7%AD%96%E7%95%A5%E3%80%82)
+
+* 2020/10/27 [什么是数据库范式？聊一聊数据库都有哪些范式？](https://github.com/crisxuan/bestJavaer/wiki/%E4%BB%80%E4%B9%88%E6%98%AF%E6%95%B0%E6%8D%AE%E5%BA%93%E8%8C%83%E5%BC%8F%EF%BC%9F%E8%81%8A%E4%B8%80%E8%81%8A%E6%95%B0%E6%8D%AE%E5%BA%93%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E8%8C%83%E5%BC%8F%EF%BC%9F)
+
+* 2020/10/28 为什么 finally 一定会执行？
+
+* 2020/11/02 线程池五种状态分别是什么？
+
+* 2020/11/03 nginx 可以用来做什么？
+
+* 2020/11/04 为什么多线程场景下建议用 while 而不是 if ？
+
+* 2020/11/05 分布式事务了解吗？如何实现，各自优缺点 ？
+
+* 2020/11/11 聊一聊深拷贝和浅拷贝的区别
+
+* 2020/11/12 负载均衡的策略有哪些 ？
+
+* 2020/11/16 你能简单说说 SpringMVC 的执行原理吗？
+
+* 2020/11/17 RabbitMQ 的工作模式有哪几种？
+
+* 2020/11/18 聊一聊 as-if-serial 规则和 happens-before 规则的区别
+
+* 2020/12/07 什么是聚簇索引？何时使用聚簇索引与非聚簇索引？
+
+* 2020/12/08 为什么新生代存在两个 survivor 区 ？
+
+* 2020/12/09 Dubbo 的核心组件有哪些？
+
+* 2020/12/10 Spring如何解决 bean 的循环依赖 ？
+
+* 2020/12/14 线程安全的集合类有哪些？分别是基于什么数据结构的？
+
+* 2020/12//15 java 自带的 jvm 监控工具使用过吗？可以说一下具体使用案例吗？
+
+* 2020/12/16 Spring IOC 和 AOP 中都用到了哪些设计模式？
 
   
 
