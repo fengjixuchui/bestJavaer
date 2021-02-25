@@ -127,6 +127,9 @@
 * [TCP/IP 基础知识](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-network-tcpip.md)
 * [计算机网络应用层协议](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-application.md)
 * [计算机网络传输层](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-translayer.md)
+* [计算机网络网络层](https://github.com/crisxuan/bestJavaer/blob/master/network/computer-internet.md)
+* [一文了解 ARP 协议](https://github.com/crisxuan/bestJavaer/blob/master/network/network-arp.md)
+* [一文了解 DNS 协议](https://github.com/crisxuan/bestJavaer/blob/master/network/network-dns.md)
 
 
 ## Java 基础系列
@@ -136,7 +139,7 @@
 * [Java 反射](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-reflect.md)
 * [Java 集合](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-collections.md)
 * [String、StringBuffer 和 StringBuilder](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-stringstringbufferstringbuilder.md)
-* Java 中的语法糖
+* [Java 中的语法糖](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-suger.md)
 * [深入理解 static 关键字](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-static.md)
 * [深入理解 Java 变量](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-varaibles.md)
 * [深入理解 final、finally、finalize](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-final.md)
@@ -158,11 +161,9 @@
 * [Effective Java - try-with-resources 优先于try-finally](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/effectivejava-try-with-resources.md)
 * [学习 Java 网站推荐给你](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/learn-java.md)
 
-### 源码分析
+### Java 基础源码分析
 
 [看完这篇 HashMap，和面试官扯皮就没问题了](https://github.com/crisxuan/bestJavaer/blob/master/java-basic/java-hashmap.md)
-
-[AtomicXXX 的用法和实现原理](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-atomicxxx.md)
 
 ## 并发系列
 
@@ -171,14 +172,17 @@
 * [看完你就明白的锁系列之乐观锁和悲观锁](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-optimisticlock.md)
 * [看完你就明白的锁系列之自旋锁](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-spinlock.md)
 * [锁系列汇总](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-lock.md)
+* [并发编程超强入门汇总](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-concurrent.md)
 
-  
-
-### 源码分析
+### 并发源码分析
 
 * [ReentrantLock 源码分析](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-reentrantlock.md)
 * [我花了 35 张图就为你让你了解 AQS](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-aqs.md)
 * [AtomicInteger 的用法和实现原理](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-atomicInteger.md)
+* [CountDownLatch 用法和源码解释](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-countDownLatch.md)
+* [Atomic 基本数据类型的用法和实现原理](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-atomicxxx.md)
+* [AtomicReference 的用法和源码解析](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-atomicReference.md)
+* [线程池超用心源码分析](https://github.com/crisxuan/bestJavaer/blob/master/java-concurrent/java-threadpoolexecutor.md)
 
 
 ## 设计模式系列
@@ -202,8 +206,6 @@ TODO
 
 ## MyBatis
 
-
-
 * [MyBatis 基础搭建及架构概述](https://github.com/crisxuan/bestJavaer/blob/master/mybatis/mybatis-base.md)
 * [MyBatis Configuration](https://github.com/crisxuan/bestJavaer/blob/master/mybatis/mybatis-configuration.md) 
 * [MyBatis 核心配置综述之Executor](https://github.com/crisxuan/bestJavaer/blob/master/mybatis/mybatis-executor.md)
@@ -217,15 +219,8 @@ TODO
 ## MySQL
 
 * [MySQL 基础入门大全](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-basicall.md)
-  * [MySQL SQL 基本使用](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-sql.md)
-  * [MySQL 数据类型](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-datatype.md)
-  * [MySQL 运算符](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-operator.md)
-  * [MySQL 常用函数](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-func.md)
 * [MySQL 开发](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-develop.md)
-  * [MySQL 存储引擎](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-storageengine.md)
-  * [MySQL 选择合适的数据类型](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-selectdatatype.md)
-  * [MySQL 字符集](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-charset.md)
-* [SQL 进阶技巧](https://github.com/crisxuan/bestJavaer/blob/master/mysql/sql-improve.md)
+* [MySQL 进阶技巧](https://github.com/crisxuan/bestJavaer/blob/master/mysql/mysql-improve.md)
 
 ## Spring 系列
 
@@ -257,7 +252,7 @@ TODO
 
 ## Redis 系列教程
 
-TODO
+缓存贯穿、缓存失效、缓存雪崩都是什么
 
 ## Nginx 系列教程
 
@@ -272,6 +267,7 @@ TODO
 * [今年面试这么难，到底如何进入大厂？](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-jingdong.md)
 * [外包面试之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-zhongruan.md)
 * [京东面试之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-jingdong-social.md)
+* [百度面试之旅](https://github.com/crisxuan/bestJavaer/blob/master/interview/interview-baidu.md)
 
 ## 面试题系列
 
@@ -338,7 +334,7 @@ TODO
 
 ## 程序员
 
-
+[程序员都必知的一些网站](https://github.com/crisxuan/bestJavaer/blob/master/programmer/website-recommand.md)
 
 
 
